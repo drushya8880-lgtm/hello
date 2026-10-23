@@ -1,2 +1,2 @@
 print("nj the king")
-print("nj lion")
+print("nj lion and tiger")
